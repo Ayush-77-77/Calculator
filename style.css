@@ -4,8 +4,19 @@
 }
 body
 {
-    
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(20, 19, 19);
+  
 }
-.calculator{
-display: flex;
+.Calculator{
+   background-color: white;
+   border: 1px solid white;
+   padding: 20px;
+   background: transparent;
+
 }
+

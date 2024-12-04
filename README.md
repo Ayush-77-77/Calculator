@@ -2,6 +2,11 @@
 
 A simple calculator that supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+
+## Image 
+![Calculator Screenshot](/Image/screenshotCalc.png)
+
+
 ## Features
 
 - Performs basic arithmetic operations:
